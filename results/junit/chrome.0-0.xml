@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Agent Claims" timestamp="2020-04-02T10:33:02" time="61.59" tests="0" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="ba4a2c8ab1afd3dd5d5f3cefa3dca4dd"/>
+      <property name="suiteName" value="Agent Claims"/>
+      <property name="capabilities" value="chrome"/>
+      <property name="file" value=".\test\features\agentClaim.feature"/>
+    </properties>
+  </testsuite>
+  <testcase classname="chrome.Agent Claims" name="Agent claim - Start New Call" time="56.947">
+    <system-out>
+      <![CDATA[
+I have logged in as "UserGroup"
+Get Incident Information section details
+Search the Customer Device Protection Plan section details
+Initiate the Claim section by using Customer contact Email
+Claim Initiation Completed and Start the New Call]]>
+    </system-out>
+  </testcase>
+</testsuites>

@@ -1,0 +1,22 @@
+{
+  "UserGroup": {
+    "chrome": {
+      "userName": "mlofaro@taylordigital.io",
+      "password": "s6VW?IzPmY"
+    }
+  },
+
+  "CustomerDeviceProtectionPlan": {
+    "chrome": {
+      "searchMobileNumber": "9552532371",
+      "dateOfIncident": "03/18/2020"
+    }
+  },
+
+  "InitiateClaim": {
+    "chrome": {
+      "emailAddress": "test@test.com"
+    }
+  }
+
+}
